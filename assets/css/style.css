@@ -300,3 +300,10 @@ height: 100vh;
 #work,#about-me,#experience,#skills ,#education{
     scroll-margin-top: 70px;
 }
+.navbar-toggler:hover
+ {
+    background: white;
+}
+.navbar-toggler:focus{
+    box-shadow: unset;
+}
